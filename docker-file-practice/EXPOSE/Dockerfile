@@ -1,0 +1,3 @@
+FROM centos
+EXPOSE 1000-2000
+
