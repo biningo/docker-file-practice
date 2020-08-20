@@ -1,0 +1,142 @@
+2020-08-15 15:25:18,261 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 15:25:18,276 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:47842, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:25:18,276 INFO send udp packet: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:25:28,277 INFO retry to push data, key: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:25:28,278 INFO send udp packet: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:25:38,279 INFO retry to push data, key: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:25:38,279 WARN max re-push times reached, retry times 2, key: 127.0.1.1,47842,3579794062056
+
+2020-08-15 15:26:19,457 INFO DEFAULT_GROUP@@consumers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 15:27:34,649 INFO DEFAULT_GROUP@@consumers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 15:27:37,863 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 15:27:37,864 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:47842, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:37,864 INFO send udp packet: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:37,865 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:53404, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,53404,3719389239663
+
+2020-08-15 15:27:37,865 INFO send udp packet: 127.0.1.1,53404,3719389239663
+
+2020-08-15 15:27:47,864 INFO retry to push data, key: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:47,864 INFO send udp packet: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:47,865 INFO retry to push data, key: 127.0.1.1,53404,3719389239663
+
+2020-08-15 15:27:47,865 INFO send udp packet: 127.0.1.1,53404,3719389239663
+
+2020-08-15 15:27:57,865 INFO retry to push data, key: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:57,866 WARN max re-push times reached, retry times 2, key: 127.0.1.1,47842,3719389239663
+
+2020-08-15 15:27:57,866 INFO retry to push data, key: 127.0.1.1,53404,3719389239663
+
+2020-08-15 15:27:57,866 WARN max re-push times reached, retry times 2, key: 127.0.1.1,53404,3719389239663
+
+2020-08-15 16:51:10,485 INFO DEFAULT_GROUP@@consumers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 16:57:35,515 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 16:57:35,534 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:49429, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:57:35,534 INFO send udp packet: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:57:45,536 INFO retry to push data, key: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:57:45,536 INFO send udp packet: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:57:55,536 INFO retry to push data, key: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:57:55,537 WARN max re-push times reached, retry times 2, key: 127.0.1.1,49429,2424096990526
+
+2020-08-15 16:58:12,401 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 16:58:12,404 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:49429, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:58:12,404 INFO send udp packet: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:58:22,404 INFO retry to push data, key: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:58:22,405 INFO send udp packet: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:58:32,406 INFO retry to push data, key: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:58:32,406 WARN max re-push times reached, retry times 2, key: 127.0.1.1,49429,2460982376843
+
+2020-08-15 16:59:13,731 INFO DEFAULT_GROUP@@consumers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 16:59:43,809 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 16:59:43,811 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:49429, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,49429,2552390926403
+
+2020-08-15 16:59:43,811 INFO send udp packet: 127.0.1.1,49429,2552390926403
+
+2020-08-15 16:59:43,813 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:41451, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,41451,2552390926403
+
+2020-08-15 16:59:43,813 INFO send udp packet: 127.0.1.1,41451,2552390926403
+
+2020-08-15 16:59:43,814 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:37050, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,37050,2552390926403
+
+2020-08-15 16:59:43,814 INFO send udp packet: 127.0.1.1,37050,2552390926403
+
+2020-08-15 16:59:53,812 INFO retry to push data, key: 127.0.1.1,49429,2552390926403
+
+2020-08-15 16:59:53,812 INFO send udp packet: 127.0.1.1,49429,2552390926403
+
+2020-08-15 16:59:53,813 INFO retry to push data, key: 127.0.1.1,41451,2552390926403
+
+2020-08-15 16:59:53,813 INFO send udp packet: 127.0.1.1,41451,2552390926403
+
+2020-08-15 16:59:53,815 INFO retry to push data, key: 127.0.1.1,37050,2552390926403
+
+2020-08-15 16:59:53,815 INFO send udp packet: 127.0.1.1,37050,2552390926403
+
+2020-08-15 17:00:03,813 INFO retry to push data, key: 127.0.1.1,49429,2552390926403
+
+2020-08-15 17:00:03,813 WARN max re-push times reached, retry times 2, key: 127.0.1.1,49429,2552390926403
+
+2020-08-15 17:00:03,815 INFO retry to push data, key: 127.0.1.1,41451,2552390926403
+
+2020-08-15 17:00:03,815 WARN max re-push times reached, retry times 2, key: 127.0.1.1,41451,2552390926403
+
+2020-08-15 17:00:03,816 INFO retry to push data, key: 127.0.1.1,37050,2552390926403
+
+2020-08-15 17:00:03,816 WARN max re-push times reached, retry times 2, key: 127.0.1.1,37050,2552390926403
+
+2020-08-15 17:00:09,603 INFO DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+
+2020-08-15 17:00:09,605 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:49429, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:09,605 INFO send udp packet: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:09,606 INFO serviceName: DEFAULT_GROUP@@providers:api.hello.HelloService:0.0.1: changed, schedule push for: 127.0.1.1:37050, agent: Nacos-Java-Client:v1.3.2, key: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:09,606 INFO send udp packet: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:19,606 INFO retry to push data, key: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:19,606 INFO send udp packet: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:19,608 INFO retry to push data, key: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:19,608 INFO send udp packet: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:29,608 INFO retry to push data, key: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:29,608 WARN max re-push times reached, retry times 2, key: 127.0.1.1,49429,2578184362598
+
+2020-08-15 17:00:29,609 INFO retry to push data, key: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:29,609 WARN max re-push times reached, retry times 2, key: 127.0.1.1,37050,2578184362598
+
+2020-08-15 17:00:33,246 INFO DEFAULT_GROUP@@consumers:api.hello.HelloService:0.0.1: is changed, add it to push queue.
+

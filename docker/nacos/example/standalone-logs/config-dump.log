@@ -1,0 +1,14 @@
+2020-08-15 16:50:29,982 INFO [dump-all-ok] api.hello.HelloService:0.0.1::provider:dubbo-provider+dubbo, 1597476317000, length=861, md5=2acef9b668b6ec66ba7a07bb7cd1e691
+
+2020-08-15 16:50:29,983 INFO [dump-all-ok] dubbo-provider+mapping-api.hello.HelloService, 1597476317000, length=13, md5=3b942c6d10c0ef271349e2d5dd98047e
+
+2020-08-15 16:50:29,983 INFO [dump-all-ok] api.hello.HelloService:0.0.1::consumer:dubbo-consumer+dubbo, 1597476379000, length=257, md5=fb6ff93c99ab27976fb9ba849be895a3
+
+2020-08-15 16:51:09,852 WARN [dump-ignore] ignore to save cache file. groupKey=api.hello.HelloService:0.0.1::consumer:dubbo-consumer+dubbo, md5=fb6ff93c99ab27976fb9ba849be895a3, lastModifiedOld=1597476379000, lastModifiedNew=1597481469583
+
+2020-08-15 16:57:34,674 WARN [dump-ignore] ignore to save cache file. groupKey=api.hello.HelloService:0.0.1::provider:dubbo-provider+dubbo, md5=2acef9b668b6ec66ba7a07bb7cd1e691, lastModifiedOld=1597476317000, lastModifiedNew=1597481854556
+
+2020-08-15 16:58:11,538 WARN [dump-ignore] ignore to save cache file. groupKey=api.hello.HelloService:0.0.1::provider:dubbo-provider+dubbo, md5=2acef9b668b6ec66ba7a07bb7cd1e691, lastModifiedOld=1597476317000, lastModifiedNew=1597481891427
+
+2020-08-15 16:59:12,937 WARN [dump-ignore] ignore to save cache file. groupKey=api.hello.HelloService:0.0.1::consumer:dubbo-consumer+dubbo, md5=fb6ff93c99ab27976fb9ba849be895a3, lastModifiedOld=1597476379000, lastModifiedNew=1597481952914
+
